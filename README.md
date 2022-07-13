@@ -1,11 +1,10 @@
 # El territorio en la escuela. Pensando la articulación entre desigualdades educativas y territoriales en la ciudad de Buenos Aires, Argentina
 
-Este repositorio contiene la Tesis realizada por Pablo Santiago Serrati para obtener el título de *Magister en Generación y Análisis de Información Estadística* (MGAIE-UNTREF). 
+Este repositorio contiene la versión final de la Tesis realizada por Pablo Santiago Serrati para obtener el título de *Magister en Generación y Análisis de Información Estadística* (MGAIE-UNTREF). Además, se incluye el código `R` presente en el *Apéndice C*.
 
 **Título de la tesis:** "El territorio en la escuela. Pensando la articulación entre desigualdades educativas y territoriales en la ciudad de Buenos Aires, Argentina"
 
 **Autor de la tesis:** Pablo Santiago Serrati
-
 
 **Directora:** Dra. María Mercedes Di Virgilio
 
@@ -23,6 +22,8 @@ Este repositorio contiene la Tesis realizada por Pablo Santiago Serrati para obt
 
 **Dictamen de evaluación:** *Aprobado con mención honorífica.*
 
-## Para citar
+## Cómo citar / How to cite
 
-Se sugiere citar la presente tesis como 
+Se sugiere citar la presente tesis como:
+
+> Serrati, P. (2022). *El territorio en la escuela. Pensando la articulación entre desigualdades educativas y territoriales en la ciudad de Buenos Aires, Argentina* (Tesis para optar por el grado de Magister en Generación y Análisis de Información Estadística). Universidad Nacional de Tres de Febrero.
